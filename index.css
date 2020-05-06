@@ -1,13 +1,13 @@
-.greet{
+#greet{
     color: aqua;
 }
 
-#bold{
+.bold{
     color: brown;
     font: bolder;
 }
 
-.main{
+#main{
     color: chartreuse;
     font-family: fantasy;
 }
