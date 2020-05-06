@@ -4,4 +4,10 @@
 
 #bold{
     color: brown;
+    font: bolder;
+}
+
+.main{
+    color: chartreuse;
+    font-family: fantasy;
 }
